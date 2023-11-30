@@ -1,3 +1,3 @@
 # apnacollege
 this is my first repo <br>
-author ~ Nadxxm
+author ~ SNadxxm
